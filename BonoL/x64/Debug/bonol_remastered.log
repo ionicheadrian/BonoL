@@ -1,0 +1,444 @@
+﻿  bonoL.cpp
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,67): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(68,55): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(104,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(104,14): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(104,14): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(104,14): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(104,14): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(105,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(105,14): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(105,14): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(105,14): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(105,14): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(168,56): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(432,56): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(436,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,75): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(439,63): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,73): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(533,61): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,69): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(556,57): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(849,56): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,75): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(853,63): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,71): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(990,62): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1000,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,71): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1025,62): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1036,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1120,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1127,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,82): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1179,70): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1296,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1303,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,82): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1354,70): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,71): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1456,62): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,77): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1466,65): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1547,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,80): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1554,68): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,82): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:         with
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:             T=int
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:         ]
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:         and
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:         [
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:             T=float
+C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\bonoL.cpp(1606,70): warning C4244:         ]
+  bonol_remastered.vcxproj -> C:\Users\Adrian\Desktop\fac\vs\IP\bonol_remastered\x64\Debug\bonol_remastered.exe

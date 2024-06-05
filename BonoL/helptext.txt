@@ -1,0 +1,1 @@
+In BonoL you have a 4x4 board with 2 black dots and 2 L shapes\n To win this game, 1 player has to move either the L object or the black\n dots in a manner so that the other player does not have any room to move.\n\n\n Left Click: Draw L shape Player1\n Right Click: Draw L shape Player2\n M: Move black dot\n P: Switch the dot\n
